@@ -1,0 +1,12 @@
+torch==2.4.1
+torchaudio==2.4.1
+torchvision==0.19.1
+captum==0.7.0
+streamlit==1.38.0
+matplotlib==3.9.2
+numpy==1.26.4
+Pillow==10.4.0
+requests==2.32.3
+protobuf==4.25.4
+grpcio==1.66.1
+flwr==1.11.0

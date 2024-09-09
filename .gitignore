@@ -1,0 +1,4 @@
+echo "simulation.log" >> .gitignore
+echo "data/" >> .gitignore
+echo "venv/" >> .gitignore
+echo "*.pth" >> .gitignore

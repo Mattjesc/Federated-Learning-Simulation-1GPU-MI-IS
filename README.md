@@ -1,5 +1,9 @@
 # Federated Learning Simulation on a Single GPU with Model Interpretability and Interactive Visualization
 
+![Project Meme (5)](https://github.com/user-attachments/assets/cf2729bd-5f99-4d21-bf96-848c6e91fc17)
+
+![image](https://github.com/user-attachments/assets/92d89474-e1ad-4ca3-ac91-d9b8cc96ae7c)
+
 ## Disclaimer
 
 This project is configured on compute-restrained hardware, specifically a single GPU. The model training results may vary significantly depending on the system configuration, including but not limited to GPU type, CPU, RAM, and other hardware specifications. Additionally, external factors such as network conditions, software environment, and other runtime variables can influence the outcomes.
